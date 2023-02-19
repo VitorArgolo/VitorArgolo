@@ -19,7 +19,7 @@
 <br/>
 </div>
 
-### Hobbies:
+## Hobbies:
 #### 🎸 Tocar violão.
 #### 🎻 Tocar viola de arco.
 #### ✍🏽 Desenhar.
