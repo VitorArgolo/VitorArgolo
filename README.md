@@ -23,5 +23,5 @@
 #### 🎸 Tocar violão.
 #### 🎻 Tocar viola de arco.
 #### ✍🏽 Desenhar.
-#### 📚 Aprender coisas novas.
+#### 📚 Aprender.
 
