@@ -21,8 +21,9 @@
 </div>
 
 ## Hobbies:
-#### 🎸 Tocar violão.
-#### 🎻 Tocar viola de arco.
-#### ✍🏽 Desenhar.
+#### 🎸 Playing the acoustic guitar  
+#### 🎻 Playing the viola (classical string instrument)  
+#### ✍🏽 Drawing and sketching
+
 
 
